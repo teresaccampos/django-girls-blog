@@ -42,7 +42,7 @@ Antes de começar, você precisará ter os seguintes requisitos instalados:
       source venv/bin/activate  # Para Linux/macOS
       venv\Scripts\activate  # Para Windows
 
-4.Instale as dependências do projeto:
+4. Instale as dependências do projeto:
       ```bash
    pip install -r requirements.txt
 
