@@ -33,23 +33,28 @@ Antes de começar, você precisará ter os seguintes requisitos instalados:
    git clone https://github.com/SEU_USUARIO/django-girls-blog.git
    
 2. Navegue até o diretório do projeto:
+   ```bash
 cd django-girls-blog
 
 3. Crie um ambiente virtual (recomendado):
+      ```bash
 python -m venv venv
 source venv/bin/activate  # Para Linux/macOS
 venv\Scripts\activate  # Para Windows
 
 4.Instale as dependências do projeto:
+      ```bash
 pip install -r requirements.txt
 
 5. Execute as migrações do banco de dados:
+      ```bash
    python manage.py migrate
 
 6. Inicie o servidor de desenvolvimento:
+      ```bash
 python manage.py runserver
 
-Agora, você pode acessar a aplicação em http://127.0.0.1:8000/.
+- Agora, você pode acessar a aplicação em http://127.0.0.1:8000/.
 
 ## Contribuindo
 Sinta-se à vontade para fazer um fork do projeto e enviar um pull request se quiser adicionar novas funcionalidades ou corrigir bugs. Toda contribuição é bem-vinda!
