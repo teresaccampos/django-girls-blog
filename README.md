@@ -59,7 +59,7 @@ Antes de começar, você precisará ter os seguintes requisitos instalados:
 Sinta-se à vontade para fazer um fork do projeto e enviar um pull request se quiser adicionar novas funcionalidades ou corrigir bugs. Toda contribuição é bem-vinda!
 
 ## Licença
-Este projeto é licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
+Este projeto é licenciado sob a licença MIT.
 
 
 
